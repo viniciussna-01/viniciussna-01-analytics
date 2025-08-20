@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Projetos em destaque
-- [📊 Planilha Financeira Interativa](https://github.com/viniciussna-01/data-analytics-excel-financeiro)
+- [📊 Planilha Financeira Interativa](https://github.com/viniciussna-01/excel-financeiro)
 - [📈 Dashboard em Power BI - Controle de Vendas](https://github.com/<SEU_USUARIO_GITHUB>/powerbi-vendas) *(futuro projeto)*
 - [🐍 Scripts em Python para Limpeza de Dados](https://github.com/<SEU_USUARIO_GITHUB>/python-data-cleaning) *(em construção)*
 
