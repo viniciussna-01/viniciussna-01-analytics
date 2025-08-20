@@ -1,4 +1,3 @@
-# viniciussna-01-analytics[profile_README_template.md](https://github.com/user-attachments/files/21899054/profile_README_template.md)
 # 👋 Olá, eu sou Vinícius Magalhães de Souza Sena!
 
 🎯 Buscando me consolidar como **Analista de Dados**, unindo minha formação em **Administração e Ciências Contábeis** com habilidades em **Excel, Power BI e Python**.  
@@ -22,7 +21,7 @@
 ---
 
 ## 📌 Projetos em destaque
-- [📊 Planilha Financeira Interativa](https://github.com/<SEU_USUARIO_GITHUB>/planilha-financeira)
+- [📊 Planilha Financeira Interativa](https://github.com/viniciussna-01/data-analytics-excel-financeiro)
 - [📈 Dashboard em Power BI - Controle de Vendas](https://github.com/<SEU_USUARIO_GITHUB>/powerbi-vendas) *(futuro projeto)*
 - [🐍 Scripts em Python para Limpeza de Dados](https://github.com/<SEU_USUARIO_GITHUB>/python-data-cleaning) *(em construção)*
 
