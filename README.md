@@ -22,7 +22,7 @@
 
 ## 📌 Projetos em destaque
 - [📊 Planilha Financeira Interativa](https://github.com/viniciussna-01/excel-financeiro)
-- [📈 Dashboard em Power BI - Controle de Vendas]((https://github.com/viniciussna-01/PowerBI-Dashboards)) 
+- [📈 Dashboard em Power BI - Controle de Vendas](https://github.com/viniciussna-01/PowerBI-Dashboards) 
 
 ---
 
