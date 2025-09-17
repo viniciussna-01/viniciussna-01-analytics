@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Vinícius Magalhães de Souza Sena!
 
-🎯 Buscando me consolidar como **Analista de Dados**, unindo minha formação em **Administração e Ciências Contábeis** com habilidades em **Excel, Power BI e Python**.  
+🎯 Buscando me consolidar como **Analista de Dados**, cursando **pós-graduação em Engenharia e Análise de Dados** no Cesar Scholl, unindo minha formação em **Administração** com habilidades em **Excel, Power BI e Python**.  
 📊 Experiência com **tabelas e gráficos dinâmicos**, dashboards interativos e **tratamento/limpeza de dados**.
 
 ---
