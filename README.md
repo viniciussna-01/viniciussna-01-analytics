@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Projetos em destaque
-- [🏐 Projeto Campeonato Brasileiro] (https://github.com/viniciussna-01/brasileirao_app)
+- [🏐 Projeto Campeonato Brasileiro](https://github.com/viniciussna-01/brasileirao_app)
 - [📊 Planilha Financeira Interativa](https://github.com/viniciussna-01/excel-financeiro)
 - [📈 Dashboard em Power BI - Controle de Vendas](https://github.com/viniciussna-01/PowerBI-Dashboards) 
 
