@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Formado em **Administração** e cursando **Ciências Contábeis**
+- 🎓 Formado em **Administração** e cursando **Pós Graduação em Engenharia e Análise de Dados** no CESAR School
 - 📈 Focado em **Análise de Dados e Business Intelligence**
-- 🐍 Estudando **Python para Data Science**
+- 🐍 Estudando **Python e SQL para Data Science**
 - 🛠️ Habilidades: **Excel, Power BI, SQL (iniciante), Python (iniciante)**
 
 ---
