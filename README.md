@@ -21,6 +21,7 @@
 ---
 
 ## 📌 Projetos em destaque
+- [🚗Projeto Análise EDA - Vendas de Carro](https://github.com/viniciussna-01/Vendas_Carros_EDA)
 - [🏐 Projeto Campeonato Brasileiro](https://github.com/viniciussna-01/brasileirao_app)
 - [📊 Planilha Financeira Interativa](https://github.com/viniciussna-01/excel-financeiro)
 - [📈 Projetos Dashboard em Power BI](https://github.com/viniciussna-01/PowerBI-Dashboards) 
